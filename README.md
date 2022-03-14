@@ -1,1 +1,3 @@
-# toolbox
+# Toolbox
+
+Collection of my settings/profiles for assorted tools I customize for usage, such as ZSH, Windows Terminal, VS Code, VIM and more...
